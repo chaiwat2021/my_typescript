@@ -1,0 +1,6 @@
+Compile a single file
+$ tsc [filename].ts  //compile
+$ node [filename].js //run
+
+Compile source in path
+$ tsc -p tsconfig.json
